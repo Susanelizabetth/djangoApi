@@ -1,0 +1,11 @@
+django-rest-framework==0.1.0
+Django==4.0.4
+django-cors-headers==3.11.0
+mysql-connector-python==8.0.28
+mysqlclient==2.1.0
+djangorestframework-simplejwt==4.8.0
+djoser==2.1.0
+drf-yasg==1.20.0
+django-dotenv==1.4.2
+psutil
+uuid
